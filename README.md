@@ -1,5 +1,6 @@
 # Habit Tracker & Focus Timer
 
+
 A calm, distraction-free single-page productivity app. It combines a Pomodoro-style focus timer with a daily habits checklist and a progress bar that shows how your day is going. Everything runs in the browser, and data is saved in `localStorage`, so there is no login, backend, or database to set up.
 
 ## Features
